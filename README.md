@@ -1,11 +1,11 @@
 # Hi there 👋
 ## About me
-I'm a current (and Recent) 2nd year undergraudate Computer Science Student with an opted specilization in Software Engineering within my degree. </br>
-I have chosen to study this due to the love and passion I have for solving problems and building projects with the current technologies we have at our disposal.
+A current (and Recent) 2nd year undergraudate Computer Science Student with an opted specilization in Software Engineering. </br>
+Passion for Solving problems /w Programming Languages.
 
 # Techologies
 ## 🖥️ Programming Languages 
-Python, Java, Javascript
+Python, Java, Javascript, (Learning) Clojure
 
 ## 🗃️ Database 
 SQLite
