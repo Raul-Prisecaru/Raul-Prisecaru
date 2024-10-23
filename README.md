@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me
-A current (and Recent) 2nd year undergraudate Computer Science Student with an opted specilization in Software Engineering. </br>
+A current 2nd year undergraudate Computer Science Student with an opted specilization in Software Engineering. </br>
 Passion for Solving problems /w Programming Languages.
 
 # Techologies
