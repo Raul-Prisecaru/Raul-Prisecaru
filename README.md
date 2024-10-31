@@ -5,13 +5,13 @@ Passion for Solving problems /w Programming Languages.
 
 # Techologies
 ## 🖥️ Programming Languages 
-Python, Java, Javascript, (Learning) Clojure
+Python, Java, Javascript
 
 ## 🗃️ Database 
-SQLite
+SQLite, MongoDB
 
 ## 🌐 Web Technologies
-ReactJS
+ReactJS, NodeJS, ExpressJS
 
 ## 📚 Libraries
 Matplotlib, Pandas, Numpy, JavaSwing, MaterialUI, React Toastfy, Jest
