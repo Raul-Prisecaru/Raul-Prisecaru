@@ -1,23 +1,20 @@
 # Hi there 👋
 ## About me
 A current 2nd year undergraudate Computer Science Student with an opted specilization in Software Engineering. </br>
-Passion for Solving problems /w Programming Languages.
 
 # Techologies
 ## 🖥️ Programming Languages 
-Python, Java, Javascript
+![](https://skillicons.dev/icons?i=py,java,js,ts)
 
 ## 🗃️ Database 
-SQLite, MongoDB
+![](https://skillicons.dev/icons?i=sqlite,mongodb)
 
 ## 🌐 Web Technologies
-ReactJS, NodeJS, ExpressJS
-
-## 📚 Libraries
-Matplotlib, Pandas, Numpy, JavaSwing, MaterialUI, React Toastfy, Jest
+![](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,graphql)
 
 ## 💻 Software
-Google Suite, Office 365, Pycharm, IntelliJ IDEA, Webstorm, VScode
+![](https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode)
 
 ## 🗂️ Others
-Git, Github, Linux (Ubuntu), Shell Scripting (Bash), JDBC, Unit Testing, Jupyter Notebook, Docker Container 
+![](https://skillicons.dev/icons?i=git,github,docker,linux)
+
