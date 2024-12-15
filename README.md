@@ -16,5 +16,5 @@ A current 2nd year undergraudate Computer Science Student with an opted speciliz
 ![](https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode)
 
 ## 🗂️ Others
-![](https://skillicons.dev/icons?i=git,github,docker,linux)
+![](https://skillicons.dev/icons?i=git,github,linux)
 
