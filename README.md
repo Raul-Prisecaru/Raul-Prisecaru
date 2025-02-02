@@ -10,7 +10,7 @@ A current 2nd year undergraudate Computer Science Student with an opted speciliz
 ![](https://skillicons.dev/icons?i=sqlite,mongodb)
 
 ## 🌐 Web Technologies
-![](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,graphql)
+![](https://skillicons.dev/icons?i=react,nodejs,express)
 
 ## 💻 Software
 ![](https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode)
