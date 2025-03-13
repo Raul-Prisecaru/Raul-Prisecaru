@@ -7,10 +7,10 @@ A current 2nd year undergraudate Computer Science Student with an opted speciliz
 ![](https://skillicons.dev/icons?i=py,java,js,ts)
 
 ## 🗃️ Database 
-![](https://skillicons.dev/icons?i=sqlite,mongodb)
+![](https://skillicons.dev/icons?i=sqlite,mongodb,postgres)
 
 ## 🌐 Web Technologies
-![](https://skillicons.dev/icons?i=react,nodejs,express)
+![](https://skillicons.dev/icons?i=react,nodejs,express,flask)
 
 ## 💻 Software
 ![](https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode)
