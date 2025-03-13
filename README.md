@@ -4,7 +4,7 @@ A current 2nd year undergraudate Computer Science Student with an opted speciliz
 
 # Techologies
 ## 🖥️ Programming Languages 
-![](https://skillicons.dev/icons?i=py,java,js,ts)
+![](https://skillicons.dev/icons?i=py,java,js,ts,kotlin)
 
 ## 🗃️ Database 
 ![](https://skillicons.dev/icons?i=sqlite,mongodb,postgres)
