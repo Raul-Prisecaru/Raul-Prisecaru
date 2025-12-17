@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me
-A current 2nd year undergraudate Computer Science Student with an opted specilization in Software Engineering. </br>
+Associate ML Engineer @Red Hat | BSc Computer Science Student @StMarysTwi [3rd year] </br>
 
 # Techologies
 ## 🖥️ Programming Languages 
